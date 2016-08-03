@@ -1,0 +1,29 @@
+{
+  "name": "p-lab",
+  "version": "0.0.1",
+  "description": "lab code to learn promise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vollov/p-lab.git"
+  },
+  "keywords": [
+    "promise",
+    "lab"
+  ],
+  "author": "dike.zhang@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vollov/p-lab/issues"
+  },
+  "homepage": "https://github.com/vollov/p-lab#readme",
+  "dependencies": {
+    "q": "^1.4.1"
+  },
+  "devDependencies": {
+    "should": "^10.0.0"
+  }
+}
